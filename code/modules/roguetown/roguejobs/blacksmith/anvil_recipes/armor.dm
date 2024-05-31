@@ -48,7 +48,7 @@
 	name = "studded leather (2h)"
 	req_bar = /obj/item/ingot/iron
 	additional_items = list(/obj/item/natural/hide, /obj/item/natural/hide)
-	created_item = /obj/item/clothing/suit/roguetown/armor/brigandine
+	created_item = /obj/item/clothing/suit/roguetown/armor/leather/studded
 
 // --------- STEEL -----------
 
