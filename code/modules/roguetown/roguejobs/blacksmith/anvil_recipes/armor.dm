@@ -174,8 +174,13 @@
 /datum/anvil_recipe/armor/plateboot
     name = "plated boots"
     req_bar = /obj/item/ingot/steel
-    created_item = list(/obj/item/clothing/shoes/roguetown/boots/armor,
-                        /obj/item/clothing/shoes/roguetown/boots/armor)
+    created_item = list(/obj/item/clothing/shoes/roguetown/boots/armor)
+
+/datum/anvil_recipe/armor/platebootlight
+    name = "light plate boots"
+    req_bar = /obj/item/ingot/steel
+    created_item = list(/obj/item/clothing/shoes/roguetown/boots/armor/light,
+						/obj/item/clothing/shoes/roguetown/boots/armor/light)
 
 /datum/anvil_recipe/armor/platemask/steel
 	name = "steel mask"
